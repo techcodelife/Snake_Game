@@ -177,5 +177,5 @@ while True:
     screen.fill((0, 0, 0))
     main_game.draw_elements()
     pygame.display.update()
-    clock.tick(10)  #framerate (the game will not run faster than 10 frames per second)
+    clock.tick(10)  # framerate (the game will not run faster than 10 frames per second)
     
