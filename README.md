@@ -12,5 +12,11 @@ pip install pygame
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 
 ## Screenshots
+Game on
 
+![](images/snake_alive.png)
+
+Game lost
+
+![](images/snake_dead.png)
 
